@@ -2,7 +2,7 @@
   「  public forward bot」
 </h2>
 
-ʏᴏᴜ ᴡɪʟʟ ꜰɪɴᴅ ᴛʜɪs ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <b>Public Suto Forward</b>
+ʏᴏᴜ ᴡɪʟʟ ꜰɪɴᴅ ᴛʜɪs ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <b>Public auto Forward</b>
 
 
 
@@ -19,13 +19,6 @@
 
 <details>
     <summary><h3><b>ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs :</b></h3></summary>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Mrz-Botz/Public-forward-bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
-</a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
 </h3>
