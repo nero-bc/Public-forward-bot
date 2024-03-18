@@ -1,20 +1,11 @@
 {
-  "name": "Public-Forward-Bot",
-  "description": "Telegram's Best Smart Plugin File Forward Bot",
-  "logo": "https://graph.org/file/f5f289b9f3f4e450d7929.jpg",
-  "stack": "container",
-  "keywords": [
-    "telegram",
-    "best",
-    "file",
-    "forward",
-    "bot"
-  ],
-  "success_url": "https://t.me/HORRIDduo",
-  "website": "https://github.com/Mrz-Botz/Public-forward-bot",
-  "repository": "https://github.com/Mrz-Botz/Public-forward-bot",
-  "env": {
-    "API_ID": {
+    "name": "public forward",
+    "description": "The Telegram public forward Bot",
+    "logo": "https://graph.org/file/f5f289b9f3f4e450d7929.jpg",
+    "keywords": ["Telegram", "Public-forward", "Itsme"],
+    "repository": "https://github.com/Mrz-Botz/Public-forward-bot",
+    "env": {
+        "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
       "value": ""
     },
@@ -40,13 +31,11 @@
     },
     "DATABASE_URI": {
       "description": "pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1",", 
-      "value": ""
-    }
-  },
-  "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "free"
-    }
-  }
+      "value": ""        
+    },
+    "buildpacks":
+        [
+            {"url": "heroku/python"}
+        ]      
 }
+
